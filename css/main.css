@@ -1,0 +1,28 @@
+.logo {
+    height: 96px;
+}
+
+.center-block {
+    float: none;
+}
+
+.border {
+    background-image: url('../img/border.png');
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 21px;
+    height: 515px;
+    width: 680px;
+    z-index: 1;
+}
+
+.lulu {
+    position: relative;
+    z-index: -1;
+    width: 640px;
+}
+
+.facebook {
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
